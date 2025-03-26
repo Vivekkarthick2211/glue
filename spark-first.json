@@ -1,0 +1,11 @@
+{
+  "name" : "spark-first",
+  "description" : "",
+  "role" : "arn:aws:iam::471112769964:role/role-role",
+  "command" : {
+    "name" : "glueetl",
+    "scriptLocation" : "s3://aws-glue-assets-471112769964-ap-south-1/scripts/spark-first.py",
+    "pythonVersion" : "3"
+  }
+}            
+          
